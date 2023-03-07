@@ -1,4 +1,4 @@
-#include "main.c"
+#include "holberton.h"
 
 /**
  * *_memset - fills memory with a constant byte.
